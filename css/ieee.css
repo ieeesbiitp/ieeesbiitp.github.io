@@ -1,18 +1,16 @@
 .ieee-container{
     min-height: 100vh;
-    padding-top: 13%;
+    padding-top: 5%;
     text-align: justify;
 }
 
 .events-container{
-    min-height: 100vh;
-    padding-top: 13%;
+    padding: 5%;
     text-align: center;
 }
 
 .benefits-container{
     min-height: 100vh;
-    padding-top: 13%;
     text-align: center;
 }
 
@@ -30,9 +28,6 @@
     min-height: 50px;
 }
 
-#benefits{
-    padding-top: 2%;
-}
 
 #join{
     min-height: 100vh;
@@ -82,7 +77,8 @@
 
 
 #partner, #inNews, #gallery, #team, #contact{
-    min-height: 100vh;
+    /* min-height: 100vh; */
+    padding-top: 5%;
 }
 
 
